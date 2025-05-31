@@ -1,0 +1,21 @@
+# BPE Tokenizer Dependencies
+
+# Core Python libraries used:
+# - collections (built-in)
+# - json (built-in) 
+# - pickle (built-in)
+# - re (built-in)
+# - typing (built-in)
+# - unicodedata (built-in)
+# - argparse (built-in)
+# - os (built-in)
+# - sys (built-in)
+# - pathlib (built-in)
+# - time (built-in)
+
+# This implementation uses only Python standard library modules!
+# No external dependencies required.
+
+# Optional: For comparison with production tokenizers
+# transformers>=4.0.0
+# tiktoken>=0.3.0 
