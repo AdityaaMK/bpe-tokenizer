@@ -3,6 +3,9 @@ BPE (Byte Pair Encoding) Tokenizer Implementation
 
 This implementation follows the BPE algorithm used in GPT and other modern LLMs.
 It starts with individual bytes and iteratively merges the most frequent pairs.
+
+Very similar to actual GPT tokenizer implementation:
+https://github.com/openai/gpt-2/blob/master/src/encoder.py
 """
 
 import pickle
