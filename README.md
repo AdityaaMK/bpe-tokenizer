@@ -15,13 +15,13 @@ This approach allows models to handle any text while maintaining a reasonable vo
 
 ## Key Features
 
-- ✅ **GPT-style Implementation**: Follows the same BPE algorithm used in GPT models
-- ✅ **Byte-level Encoding**: Handles any Unicode text robustly
-- ✅ **Special Tokens**: Support for `<|endoftext|>`, `<|startoftext|>`, etc.
-- ✅ **Pre-tokenization**: Uses regex patterns similar to GPT tokenizers
-- ✅ **Save/Load**: Persistence for trained tokenizers
-- ✅ **Analysis Tools**: Detailed vocabulary and performance analysis
-- ✅ **Custom Training**: Train on your own datasets
+- **GPT-style Implementation**: Follows the same BPE algorithm used in GPT models
+- **Byte-level Encoding**: Handles any Unicode text robustly
+- **Special Tokens**: Support for `<|endoftext|>`, `<|startoftext|>`, etc.
+- **Pre-tokenization**: Uses regex patterns similar to GPT tokenizers
+- **Save/Load**: Persistence for trained tokenizers
+- **Analysis Tools**: Detailed vocabulary and performance analysis
+- **Custom Training**: Train on your own datasets
 
 ## How It Works
 
